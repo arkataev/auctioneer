@@ -1,0 +1,224 @@
+{
+  "result": {
+    "Ads": [
+      {
+        "Id": 5709812713,
+        "CampaignId": 34723822,
+        "AdGroupId": 3317129279,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.lamoda.ru%2Fb%2F24566%2Fbrand-mammysize%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.(brand_{j.brands.brand_id})%2520MammySize%2520moscow%26utm_content%3D{position_type}_{position}_{keyword}_{source}_1%26utm_term%3DPHR.{phrase_id}.{banner_id}.{gbid}",
+          "SitelinkSetId": 799658418
+        }
+      },
+      {
+        "Id": 5709817808,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130872,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817809,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130879,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817810,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130884,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817811,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130890,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3D%D0%BE%D0%B1%D1%83%D0%B2%D1%8C%20john%20galliano%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817812,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130896,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817813,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130900,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3D%D0%BE%D0%B1%D1%83%D0%B2%D1%8C%20john%20galliano%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817814,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130904,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3D%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8%20john%20galliano%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817815,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130909,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3Djohn%20galliano%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817816,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130914,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817817,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130920,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817818,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130927,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3D%D0%BA%D0%B5%D0%B4%D1%8B%20john%20galliano%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817819,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130932,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817820,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130939,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817821,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130945,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Forder%3Ddiscount%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817822,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130951,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fcatalogsearch%2fresult%2F%3Fq%3Djohn%20galliano%20%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%26display_locations%3Dall%26sf%3D10017%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817823,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130957,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817824,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130963,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5709817825,
+        "CampaignId": 34723829,
+        "AdGroupId": 3317130968,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.Lamoda.ru%2Fb%2F4309%2Fbrand-johngalliano%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%5Bbrand_00436%7Cloc_05%7Cn_000%5D%3A%20john%20galliano%20moscow%26utm_content%3D{position_type}_{position}_{keyword}%26utm_term%3DPHR.{phrase_id}.{banner_id}",
+          "SitelinkSetId": 799658424
+        }
+      },
+      {
+        "Id": 5710018424,
+        "CampaignId": 34724306,
+        "AdGroupId": 3317172072,
+        "Type": "TEXT_AD",
+        "TextAd": {
+          "Href": "http://pixel.everesttech.net/2724/cq?ev_sid=90&ev_lx={phrase_id}&ev_crx={ad_id}&ev_ln={keyword}&ev_mt={source_type}&ev_ltx=&ev_src={source}&ev_pos={position}&ev_pt={position_type}&url=http%3A%2F%2Fwww.lamoda.ru%2Fb%2F5546%2Fbrand-sergiobelotti%2F%3Fdisplay_locations%3Dall%26utm_source%3DYDirect%26utm_medium%3Dcpc%26utm_campaign%3D{campaign_id}.%28brand_2037%29%3A%20Sergio%20Belotti%20moscow%26utm_content%3D{position_type}_{position}_{keyword}_{source}_1%26utm_term%3DPHR.{phrase_id}.{banner_id}.{gbid}",
+          "SitelinkSetId": 799663215
+        }
+      },
+      {
+        "Id": 6685929717,
+        "CampaignId": 39192706,
+        "AdGroupId": 3591426210,
+        "Type": "DYNAMIC_TEXT_AD",
+        "DynamicTextAd": {
+          "SitelinkSetId": 798986722
+        }
+      },
+      {
+        "Id": 6693154297,
+        "CampaignId": 39192706,
+        "AdGroupId": 3593144952,
+        "Type": "DYNAMIC_TEXT_AD",
+        "DynamicTextAd": {
+          "SitelinkSetId": 799656020
+        }
+      }
+    ]
+  }
+}

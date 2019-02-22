@@ -1,0 +1,14 @@
+celery==4.2.1
+Django==2.1.4
+-e git+https://github.com/celery/django-celery-beat#egg=master
+django-celery-results==1.0.1
+psycopg2-binary==2.7.6
+pytest==4.1.1
+pytest-django==3.4.6
+raven==6.4.0
+requests==2.19.1
+django-admin-interface==0.8.2
+python-json-logger==0.1.10
+beautifulsoup4==4.7.1
+lxml==4.3.0
+responses==0.10.5

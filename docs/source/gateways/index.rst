@@ -1,0 +1,8 @@
+========
+Gateways
+========
+
+.. toctree::
+
+   clients
+   gateways
