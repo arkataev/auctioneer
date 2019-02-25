@@ -58,13 +58,7 @@ class GatewayHttpClient:
     Base client to send http-requests
 
     This class is entended to be subclassed. You may configure request preaparation logic
-    by overriding _make_payload and prepare_request methods in subclasses:
-
-        client = GatewayHttpClient()
-        # request params are the same as requests.Request
-        p_request = client.prepare_request(method='POST', url='http://...',**kwargs['json', 'data', 'params', ...]
-        response = client.send(p_request)
-
+    by overriding _make_payload and prepare_request methods in subclasses
     """
 
     DEFAULT_CONFIG = {
@@ -187,7 +181,7 @@ class AsyncGatewayHttpClient(GatewayHttpClient):
     """
     Http client to perform async-http requests:
 
-        client = ReadWriteHttpClient()
+        client = AsyncGatewayHttpClient()
         client.set_auth_data(token='123')
         pool_id = client.get_pool_id()
         for i in range(5)
